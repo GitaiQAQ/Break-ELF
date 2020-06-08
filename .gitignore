@@ -1,0 +1,8 @@
+*.swo
+*.swp
+*.swn
+*.swl
+*.swm
+*.swk
+.ref
+.vscode
